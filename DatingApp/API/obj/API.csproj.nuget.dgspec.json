@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jaworski\\Desktop\\csharp\\datingapp\\api\\API.csproj": {}
+    "C:\\Users\\Jaworski\\Desktop\\csharp\\DatingApp\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jaworski\\Desktop\\csharp\\datingapp\\api\\API.csproj": {
+    "C:\\Users\\Jaworski\\Desktop\\csharp\\DatingApp\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jaworski\\Desktop\\csharp\\datingapp\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Jaworski\\Desktop\\csharp\\DatingApp\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Jaworski\\Desktop\\csharp\\datingapp\\api\\API.csproj",
+        "projectPath": "C:\\Users\\Jaworski\\Desktop\\csharp\\DatingApp\\api\\API.csproj",
         "packagesPath": "C:\\Users\\Jaworski\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jaworski\\Desktop\\csharp\\datingapp\\api\\obj\\",
+        "outputPath": "C:\\Users\\Jaworski\\Desktop\\csharp\\DatingApp\\api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
